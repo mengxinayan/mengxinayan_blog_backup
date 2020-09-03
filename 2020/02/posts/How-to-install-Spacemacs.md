@@ -47,4 +47,4 @@ If you are unsure, try setting them in `dotspacemacs/user-config' first."
 ```
 - 修改镜像后，重新启动emacs，等待安装结束即可
 ### 安装结果
-(Spacemacs首页截图)
+![Spacemacs首页截图](./../pics/Spacemacs%20首页截图.png)
